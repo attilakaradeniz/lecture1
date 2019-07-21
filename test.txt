@@ -1,3 +1,5 @@
 this is for testing some git & github features
 
 bu satýr deðiþiklikleri reposiory'de test etmek için
+
+3. satýr ikinci deðiiþiklik için
